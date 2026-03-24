@@ -295,13 +295,3 @@ Contributions are welcome! Please:
 3. Commit changes (`git commit -m 'Add amazing feature'`)
 4. Push to branch (`git push origin feature/amazing-feature`)
 5. Open a Pull Request
-
-## Questions?
-
-- Check the [tests/](tests/) directory for usage examples
-- See example notebooks in [notebooks/](notebooks/)
-- Open an issue on GitHub
-
----
-
-**Made with ❤️ for synthetic biology**
